@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Reclaim/static/js/main.ebba58b2.js",
+    "index.html": "/Reclaim/index.html",
+    "main.ebba58b2.js.map": "/Reclaim/static/js/main.ebba58b2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ebba58b2.js"
+  ]
+}
